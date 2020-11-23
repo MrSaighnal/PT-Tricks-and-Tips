@@ -1,4 +1,4 @@
-# Enumeratio TCP connection without netstat
+# Enumeration TCP connection without netstat
 ```
 awk 'function hextodec(str,ret,n,i,k,c){
     ret = 0
